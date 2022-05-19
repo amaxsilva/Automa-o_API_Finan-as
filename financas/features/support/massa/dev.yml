@@ -7,3 +7,7 @@ email:
 password:
   - pass1: user123
     vazio:
+
+gerar_token:
+  - email: user_qa@teste.com
+    senha: user123
