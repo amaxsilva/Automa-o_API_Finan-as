@@ -13,7 +13,7 @@ Para controle de gastos
         Dado que usuário insira os dados validos 
         Então a api deve retornar sucesso 
 
-    @usuario_invalido
-    Cenario: Validar criação de usuário com status erro
-        Dado que usuário insira os dados de email invalidos 
-        Então a api deve retornar erro
+    @usuario_existente
+    Cenario: Validar criação de usuário ja cadastrado
+        Dado que usuário insira os dados de email existente
+        Então a api deve retornar uma msg que ja possui cadatro
