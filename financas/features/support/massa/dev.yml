@@ -1,3 +1,9 @@
 email:
   - email_1: teste_autimacaaooo@gmail.com
     email_existente: teste_qa@gmail.com
+    login: user_qa@teste.com
+    vazio:
+
+password:
+  - pass1: user123
+    vazio:

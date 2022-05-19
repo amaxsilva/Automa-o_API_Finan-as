@@ -1,6 +1,6 @@
-module CREATE_USER
+module LOGIN
     module API
-      class Create_User
+      class Login
         include HTTParty
         # debug_output $stdout if HTTP_LOG
         base_uri CONFIG_APIREST['url']['url_default']
@@ -9,10 +9,9 @@ module CREATE_USER
         headers 'Content-Type' => 'application/json',
                 'Accept' => 'application/json'   
                   
-        def post_create_user(json_create_user)
-          self.class.post('/usuario', body: json_create_user.to_json)
+        def post_login(json_login)
+          self.class.post('/usuario/login', body: json_login.to_json)
         end
       end
     end
   end
-  
