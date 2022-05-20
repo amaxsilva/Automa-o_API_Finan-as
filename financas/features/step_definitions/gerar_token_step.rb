@@ -1,4 +1,5 @@
 Dado('que tenha login e senha') do
+    #binding.pry
     @dados_token = carregar_massa(['gerar_token'])
     @client_id = @dados_token['email']
     @client_secret = @dados_token['senha']
@@ -9,7 +10,7 @@ Dado('que tenha login e senha') do
 end
   
 Então('sistema deve gerar um token') do
-    @retorno = gerar_token.post_gerar_token()
+    @retorno = gerar_token_financas.post_gerar_token_financas
     puts @retorno.code
     expect(@retorno.code.to_s).to eq "200"
     @access_token = @retorno['token']

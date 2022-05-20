@@ -1,0 +1,43 @@
+=> [31m[1;31m"[0m[31m<!DOCTYPE html>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m<html lang=[1;35m\"[0m[31mpt-BR[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m  <head>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <meta charset=[1;35m\"[0m[31mUTF-8[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <meta http-equiv=[1;35m\"[0m[31mX-UA-Compatible[1;35m\"[0m[31m content=[1;35m\"[0m[31mIE=edge[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <meta name=[1;35m\"[0m[31mviewport[1;35m\"[0m[31m content=[1;35m\"[0m[31mwidth=device-width, initial-scale=1[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <meta name=[1;35m\"[0m[31mformat-detection[1;35m\"[0m[31m content=[1;35m\"[0m[31mtelephone=no[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <meta name=[1;35m\"[0m[31mrobots[1;35m\"[0m[31m content=[1;35m\"[0m[31mnoindex[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <title>Hospedagem de Site com Dom[1;35m\xC3[0m[31m[1;35m\xAD[0m[31mnio Gr[1;35m\xC3[0m[31m[1;35m\xA1[0m[31mtis - HostGator</title>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31mshortcut icon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon.ico[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31micon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-32.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m32x32[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31micon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-57.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m57x57[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31micon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-76.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m76x76[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31micon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-96.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m96x96[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31micon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-128.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m128x128[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31mshortcut icon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-192.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m192x192[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31mapple-touch-icon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-120.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m120x120[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31mapple-touch-icon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-152.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m152x152[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link rel=[1;35m\"[0m[31mapple-touch-icon[1;35m\"[0m[31m href=[1;35m\"[0m[31m/cgi-sys/images/favicons/favicon-180.png[1;35m\"[0m[31m sizes=[1;35m\"[0m[31m180x180[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link href=[1;35m\"[0m[31m/cgi-sys/css/bootstrap.min.css[1;35m\"[0m[31m rel=[1;35m\"[0m[31mstylesheet[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link href=[1;35m\"[0m[31m/cgi-sys/css/fonts.css[1;35m\"[0m[31m rel=[1;35m\"[0m[31mstylesheet[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <link href=[1;35m\"[0m[31m/cgi-sys/css/custom_404.css[1;35m\"[0m[31m rel=[1;35m\"[0m[31mstylesheet[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m  </head>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m  <body>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    <div class=[1;35m\"[0m[31mcontainer space[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m      <div class=[1;35m\"[0m[31mrow[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m        <div class=[1;35m\"[0m[31mcol-xs-12 col-sm-5[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m          <h3>Erro 404</h3>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m          <h1><strong>Ops,</strong><br>N[1;35m\xC3[0m[31m[1;35m\xA3[0m[31mo encontramos<br>essa p[1;35m\xC3[0m[31m[1;35m\xA1[0m[31mgina!</h1>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m          <p>Parece que a p[1;35m\xC3[0m[31m[1;35m\xA1[0m[31mgina que voc[1;35m\xC3[0m[31m[1;35m\xAA[0m[31m est[1;35m\xC3[0m[31m[1;35m\xA1[0m[31m procurando foi movida ou nunca existiu, certifique-se que digitou o endere[1;35m\xC3[0m[31m[1;35m\xA7[0m[31mo corretamente ou seguiu um link v[1;35m\xC3[0m[31m[1;35m\xA1[0m[31mlido.</p>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m          <a href=[1;35m\"[0m[31mhttps://www.hostgator.com.br[1;35m\"[0m[31m title=[1;35m\"[0m[31mHostGator[1;35m\"[0m[31m>Conhe[1;35m\xC3[0m[31m[1;35m\xA7[0m[31ma-nos!</a>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m          <div class=[1;35m\"[0m[31mlogo[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m            <img src=[1;35m\"[0m[31m/cgi-sys/images/logo-hostgator.svg[1;35m\"[0m[31m alt=[1;35m\"[0m[31mHostGator[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m          </div>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m        </div>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m        <div class=[1;35m\"[0m[31mhidden-xs col-sm-1[1;35m\"[0m[31m></div>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m        <div class=[1;35m\"[0m[31mhidden-xs col-sm-6[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m          <img src=[1;35m\"[0m[31m/cgi-sys/images/illustration-404.svg[1;35m\"[0m[31m class=[1;35m\"[0m[31mhidden-xs img-responsive [1;35m\"[0m[31m alt=[1;35m\"[0m[31millustration[1;35m\"[0m[31m>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m        </div>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m      </div>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m    </div>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m  </body>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m +
+[31m[1;31m"[0m[31m</html>[1;35m\r[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m
