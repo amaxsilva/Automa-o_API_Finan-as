@@ -9,6 +9,8 @@ end
 Então('o sistema deve efetuar login com sucesso') do
    expect(@retorno.code.to_s).to eql "200"
    expect(@retorno["mensagem"]).to eq "Sucesso"
+   @access_token = @retorno['token']
+   puts @access_token
 end
   
 Dado('que informo a senha e deixo campo email em branco') do

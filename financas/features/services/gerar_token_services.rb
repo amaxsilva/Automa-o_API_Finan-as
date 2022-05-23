@@ -15,7 +15,7 @@ module GERAR_TOKEN_FINANCAS
   
         auth = {:email => "user_qa@teste.com", :senha => "user123"}
           
-        self.class.post(@URL, :basic_auth => auth, headers: { 'Content-Type' => 'application/json', 'Accept' => 'application/json' }, body: { raw: raw }.to_json )
+        self.class.post(@URL, :basic_auth => auth, headers: { 'Content-Type' => 'application/json', 'Accept' => 'application/json' })
         end
       end
     end
