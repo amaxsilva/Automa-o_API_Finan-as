@@ -1,7 +1,7 @@
-module GERAR_TOKEN_FINANCAS
+module TOKEN
     module API
-      def gerar_token_financas
-        GERAR_TOKEN_FINANCAS::API::GerarTokenFinancas.new
+      def token
+        TOKEN::API::Token.new
       end
     end
   end
