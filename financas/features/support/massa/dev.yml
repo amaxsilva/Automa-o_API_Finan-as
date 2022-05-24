@@ -7,3 +7,12 @@ email:
 password:
   - pass1: user123
     vazio:
+
+transacao:
+  - data: '20220503'
+    valor: 501.56
+    vazio:
+
+valor:
+  - valor0: 501.56
+    valor1:

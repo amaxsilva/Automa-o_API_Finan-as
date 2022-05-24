@@ -3,14 +3,13 @@ Dado('que informo login e senha') do
     value = @massa['login']
     @json_login = LoginPayload.login_dto(value)
     @retorno = login.post_login(@json_login)
-    puts @retorno
+    @access_token = @retorno['token']    
+    #puts @access_token
 end
   
 Então('o sistema deve efetuar login com sucesso') do
    expect(@retorno.code.to_s).to eql "200"
    expect(@retorno["mensagem"]).to eq "Sucesso"
-   @access_token = @retorno['token']
-   puts @access_token
 end
   
 Dado('que informo a senha e deixo campo email em branco') do
