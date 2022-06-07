@@ -7,9 +7,9 @@ module DELETAR
   
         format :json
                           
-        def post_deletar(json_deletar, access_token)
+        def post_deletar(json_deletar, token)
           #binding.pry
-          self.class.post('/transacao/761', body: json_deletar.to_json, headers: {'Content-Type' => 'application/json', 'Authorization' => access_token})
+          self.class.post('/transacao/761', body: json_deletar.to_json,  headers: {'Content-Type' => 'application/json',  'Authorization' => "Bearer #{token}" })
         end
       end
     end
