@@ -2,14 +2,13 @@ Dado('que informo login e senha') do
     @massa = carregar_massa(['email'])
     value = @massa['login']
     @json_login = LoginPayload.login_dto(value)
-    @retorno = login.post_login(@json_login)
-    @access_token = @retorno['token']    
-    #puts @access_token
+    @access_token = login.post_login(@json_login)
+    @token = @access_token.parsed_response['token']    
 end
   
 Então('o sistema deve efetuar login com sucesso') do
-   expect(@retorno.code.to_s).to eql "200"
-   expect(@retorno["mensagem"]).to eq "Sucesso"
+   expect(@access_token.code.to_s).to eql "200"
+   expect(@access_token["mensagem"]).to eq "Sucesso"
 end
   
 Dado('que informo a senha e deixo campo email em branco') do
