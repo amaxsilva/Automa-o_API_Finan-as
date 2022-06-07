@@ -7,8 +7,8 @@ module TRANSACAO
   
         format :json
                           
-        def post_transacao(json_transacao, access_token)
-          self.class.post('/transacao', body: json_transacao.to_json, headers: {'Content-Type' => 'application/json', 'Authorization' => access_token})
+        def post_transacao(json_transacao, token)
+          self.class.post('/transacao', body: json_transacao.to_json,  headers: {'Content-Type' => 'application/json',  'Authorization' => "Bearer #{token}" })
         end
       end
     end
