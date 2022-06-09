@@ -1,3 +1,36 @@
 url:
   url_default: http://www.ticode.com.br/minhas-financas/api/v1
   url_get: http://www.ticode.com.br/minhas-financas/api/v1/transacao/consultarTransacao
+
+
+  Given('that you make a get on the service Dashboard Latest') do
+    #criamos uma variavel na qual recebe carregar_massa instanciando o arquivo vin 
+    @carregar_massa = carregar_massa(['vin'])
+    #aqui repassamos qual valor queremos do vin
+    @vin = @carregar_massa['value']
+    #puxamos o modulo onde instaciamos a classe e apontamos o metodo da classe 
+    @retorno = data_hub_dash_latest.get_data_hub_dash_latest(@vin)
+    
+  end
+  
+  Then('the Dashboard Latest API successfully returns') do
+    expect(@retorno.code.to_s).to eql "200"    
+  end
+  
+  Given('that you make a get on the service Dashboard Latest no data found') do
+    #criamos uma variavel na qual recebe carregar_massa instanciando o arquivo vin 
+    @carregar_massa = carregar_massa(['vin'])
+    #aqui repassamos qual valor queremos do vin
+    @vin = @carregar_massa['no_data']
+    #puxamos o modulo onde instaciamos a classe e apontamos o metodo da classe 
+    @retorno = data_hub_dash_latest.get_data_hub_dash_latest(@vin)
+  end
+  
+  Given('that you make a get on the service Dashboard Latest error') do
+     #criamos uma variavel na qual recebe carregar_massa instanciando o arquivo vin 
+     @carregar_massa = carregar_massa(['vin'])
+     #aqui repassamos qual valor queremos do vin
+     @vin = @carregar_massa['erro']
+     #puxamos o modulo onde instaciamos a classe e apontamos o metodo da classe 
+     @retorno = data_hub_dash_latest.get_data_hub_dash_latest(@vin)
+  end
