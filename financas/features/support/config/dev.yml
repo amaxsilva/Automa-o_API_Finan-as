@@ -1,2 +1,3 @@
 url:
   url_default: http://www.ticode.com.br/minhas-financas/api/v1
+  url_get: http://www.ticode.com.br/minhas-financas/api/v1/transacao/consultarTransacao
